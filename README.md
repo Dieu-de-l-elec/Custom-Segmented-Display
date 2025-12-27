@@ -18,12 +18,9 @@ It comes with 32 0603 LEDs arranged in 3 digits, 5-LED light bar and 4 custom in
 
 # Schematic:
 
-#PCB Layout:
+# PCB Layout:
 
 
 
-![Uploading PCB Routing PART4 1.png…]()
-
-#PCB Layout:
 
 
