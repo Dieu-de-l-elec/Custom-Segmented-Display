@@ -24,6 +24,10 @@ It comes with 32 0603 LEDs arranged in 3 digits, 5-LED light bar and 4 custom in
 - ***SDA***
 - ***VCC*** 5.0V or 3.3V: 3.3V only possible if the 0603 LEDs used have a forward voltage low enough (if powered with 3.3V, prefer using RED LEDs)
 
+# Sofware
+
+I made an Arduino code, which while not being the most optimized one, should be sufficient for testing...
+
 # PCB design:
 
 2 Layer PCB designed in EASYEDA (Pro edition)
