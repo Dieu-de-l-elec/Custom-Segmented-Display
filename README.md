@@ -14,6 +14,7 @@ It comes with 32 0603 LEDs arranged in 3 digits, 5-LED light bar and 4 custom in
 - each LED is driven in **constant current**, with **256 levels of brightness**
 - The top diffuser 3d printed part can be swapped with a custom made diffuser, so multiple segmented displays fonts can be achieved. Here is a link of an awesome video made by Pozy, exploring custom Segmented Display fonts: *Segmented Displays* link: https://www.youtube.com/watch?v=RTB5XhjbgZA&t=301s. I designed a top cover taking inspiration from the ***Seamless*** font (4:35)
 - Pins accessibles via **Dupont Headers** or **FPC 6P**
+- PCB size: 80mm by 25mm
   
 # Pinout:
 
