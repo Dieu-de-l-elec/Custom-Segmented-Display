@@ -9,6 +9,7 @@ Qty, Part, Value
 2, 0402 Resistor, 10K
 2, 0603 Resistor, 4.7K
 2, QFN-24 16 channel LED Controller, AW9523BTQR
+1, Custom PCB,
 ,,
 ,,
 4, Threaded inserts, M2x4x3.5
