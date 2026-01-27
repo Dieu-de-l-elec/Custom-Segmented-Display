@@ -1,8 +1,7 @@
 // Custom 7 segment Display Code based on the Adafruit AW9523 library example
-// This is far from the most optimized code, but it should be enough for testing.
+// Newer version, this is far from the most optimized code, but at least it's more efficient than the previous code. It's still good enough for my use cases.
 
 #include "Adafruit_AW9523.h"
-
 
 Adafruit_AW9523 awA;
 Adafruit_AW9523 awB;
