@@ -64,4 +64,30 @@ I made an Arduino code, which while not being the most optimized one, should be 
 <img width="1036" height="767" alt="RENDER CAD 7" src="https://github.com/user-attachments/assets/80528892-1127-4dcf-8e2b-7c639555b992" />
 <img width="1636" height="732" alt="RENDER CAD 6" src="https://github.com/user-attachments/assets/2a75fea4-b414-4d77-996d-88e5dd470325" />
 
+# Building the display:
+
+Here are the PCB soldered:
+
+![IMG_20260120_084108248](https://github.com/user-attachments/assets/9b6b00d0-b99a-48e7-8b32-548f43b55ac0)
+![IMG_20260118_152902002](https://github.com/user-attachments/assets/c0605228-e953-4574-84b3-06f53e66e431)
+
+## Top diffuser:
+The parts are 3d printed in a black filament, so that light cannot pass through, resulting in sharp segments.
+The 4 tiles didn't came out perfect, the 3d printed walls almost fused together so the icons aren't really visible, maybe in a V2 I'll increase the groove size.
+Other than that, the 3d printed top cover was looking really good, and after sanding down the two top and bottom surfaces, adding the 4 threaded inserts, and placing tracing paper on top with the help of double sided translucent adhesive, the top diffuser was ready to go. Here is the result:
+
+![IMG_20260125_152223236](https://github.com/user-attachments/assets/afd3dea1-b8d6-4129-a48c-09cde3fd0810)
+
+![IMG_20260125_152235029](https://github.com/user-attachments/assets/2b8821ce-6548-46fc-a919-ec263d6d5f9b)
+
+![IMG_20260125_181209068](https://github.com/user-attachments/assets/15dc2e06-0248-4f83-9d8b-663ee5c99850)
+![IMG_20260125_181136340](https://github.com/user-attachments/assets/13cd3241-4502-4c44-9f2a-c738ab59c2fb)
+![IMG_20260125_181049986](https://github.com/user-attachments/assets/3388c732-90e4-491f-ad94-12f10cef883b)
+![IMG_20260125_181048940](https://github.com/user-attachments/assets/dfafe378-8d4d-4b21-a290-7c7312dd2647)
+![IMG_20260125_181024657](https://github.com/user-attachments/assets/c66e6a7c-e344-47a1-81b5-1a1a8ff88fbc)
+![IMG_20260125_180919923](https://github.com/user-attachments/assets/ccd161fa-2dac-4d7f-a1e9-65f9b7302f46)
+
+
+
+
 
