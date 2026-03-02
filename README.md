@@ -91,7 +91,26 @@ Other than that, the 3d printed top cover was looking really good, and after san
 ![IMG_20260125_181024657](https://github.com/user-attachments/assets/c66e6a7c-e344-47a1-81b5-1a1a8ff88fbc)
 ![IMG_20260125_180919923](https://github.com/user-attachments/assets/ccd161fa-2dac-4d7f-a1e9-65f9b7302f46)
 
+# BOM:
 
-
-
-
+Qty	| Part	| Value
+--- | --- | --- 
+3	| 0603 Ceramic Cap	| 100nF
+2	| 0805 Ceramic Cap	| 22µF
+1	| FPC 6P Connector	| FPC-05F-6PH20
+1	| Dupont Header 1x6P	| HDR-M_2.54_1x6P
+32 | 0603 LEDs	| Any color
+1	| P-channel Mosfet	| AO3415A
+6	| 0402 Resistor	| 1K
+2	| 0402 Resistor	| 10K
+2	| 0603 Resistor	| 4.7K
+2	| QFN-24 16 channel LED Controller | AW9523BTQR
+1	| Custom PCB | 	
+_ | _ | _
+_ | _ | _
+4	| Threaded inserts	| M2x4x3.5
+4	| Screws	| M2x5
+1	| Custom 3D printed Top Cover Diffuser	| 
+(1)	| Double sided adhesive sheet	| (diffusing top layer)
+(1)	| Tracing paper sheet	| (diffusing top layer)
+(1)	| FPC ribbon cable	8P | .5mm pitch .300mm thick
