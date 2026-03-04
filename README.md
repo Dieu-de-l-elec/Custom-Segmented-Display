@@ -93,24 +93,24 @@ Other than that, the 3d printed top cover was looking really good, and after san
 
 # BOM:
 
-Qty	| Part	| Value
---- | --- | --- 
-3	| 0603 Ceramic Cap	| 100nF
-2	| 0805 Ceramic Cap	| 22µF
-1	| FPC 6P Connector	| FPC-05F-6PH20
-1	| Dupont Header 1x6P	| HDR-M_2.54_1x6P
-32 | 0603 LEDs	| Any color
-1	| P-channel Mosfet	| AO3415A
-6	| 0402 Resistor	| 1K
-2	| 0402 Resistor	| 10K
-2	| 0603 Resistor	| 4.7K
-2	| QFN-24 16 channel LED Controller | AW9523BTQR
+Qty	| Part	| Value | link
+--- | --- | --- | ---
+3	| 0603 Ceramic Cap	| 100nF | https://www.lcsc.com/product-detail/C66501.html
+2	| 0805 Ceramic Cap	| 22µF | https://www.lcsc.com/product-detail/C602037.html
+1	| FPC 6P Connector	| FPC-05F-6PH20 | https://www.lcsc.com/product-detail/C2856796.html
+1	| Dupont Header 1x6P	| HDR-M_2.54_1x6P | https://www.lcsc.com/product-detail/C37208.html
+32 | 0603 LEDs	| Any color | https://www.lcsc.com/product-detail/C965800.html
+1	| P-channel Mosfet	| AO3415A | https://www.lcsc.com/product-detail/C133233.html?s_z=n_AO3415A
+6	| 0402 Resistor	| 1K | https://www.lcsc.com/product-detail/C2906864.html
+2	| 0402 Resistor	| 10K | https://www.lcsc.com/product-detail/C2906861.html
+2	| 0603 Resistor	| 4.7K | https://www.lcsc.com/product-detail/C2907034.html
+2	| QFN-24 16 channel LED Controller | AW9523BTQR | https://www.lcsc.com/product-detail/C148077.html
 1	| Custom PCB | 	
-_ | _ | _
-_ | _ | _
-4	| Threaded inserts	| M2x4x3.5
-4	| Screws	| M2x5
-1	| Custom 3D printed Top Cover Diffuser	| 
-(1)	| Double sided adhesive sheet	| (diffusing top layer)
-(1)	| Tracing paper sheet	| (diffusing top layer)
-(1)	| FPC ribbon cable	8P | .5mm pitch .300mm thick
+_ | _ | _ | _
+_ | _ | _ | _
+4	| Threaded inserts	| M2x4x3.5 | https://fr.aliexpress.com/item/1005010298290044.html
+4	| Screws	| M2x5 | https://fr.aliexpress.com/item/1005005395957622.html
+1	| Custom 3D printed Top Cover Diffuser	| _
+(1)	| Double sided adhesive sheet	| (diffusing top layer) | https://fr.aliexpress.com/item/1005005445296074.html
+(1)	| Tracing paper sheet	| (diffusing top layer) | https://fr.aliexpress.com/item/1005007419166941.html
+(1)	| FPC ribbon cable	8P | .5mm pitch .300mm thick | https://www.lcsc.com/product-detail/C2857689.html
