@@ -29,7 +29,7 @@ demo here: https://youtu.be/OrP4pxH6j-U
 - ***SDA***
 - ***VCC*** 5.0V or 3.3V: 3.3V only possible if the 0603 LEDs used have a forward voltage low enough (if powered with 3.3V, prefer using RED LEDs)
 
-# Sofware
+# Software
 
 I made an Arduino code, which while not being the most optimized one, should be sufficient for testing...
 
