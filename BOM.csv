@@ -9,9 +9,9 @@ Qty, Part, Valuek, link
 2, 0402 Resistor, 10K, https://www.lcsc.com/product-detail/C2906861.html
 2, 0603 Resistor, 4.7K, https://www.lcsc.com/product-detail/C2907034.html
 2, QFN-24 16 channel LED Controller, AW9523BTQR, https://www.lcsc.com/product-detail/C148077.html
-1, Custom PCB,
-,,
-,,
+1, Custom PCB,,
+,,,
+,,,
 4, Threaded inserts, M2x4x3.5, https://fr.aliexpress.com/item/1005010298290044.html
 4, Screws, M2x5, https://fr.aliexpress.com/item/1005005395957622.html
 1, Custom 3D printed Top Cover Diffuser,
