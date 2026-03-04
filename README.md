@@ -1,7 +1,7 @@
 # Custom Segmented Display
 
 This project is a customizable Segmented display, consisting of a PCB and a top 3d printed diffuser part.
-It comes with 32 0603 LEDs arranged in 3 digits, 5-LED light bar and 4 custom indicators. For the top cover, it's mainly a 3d printed part, with tracing paper acting as a diffuser. I'm using double sided adhesive sheets to place the diffusing film on top of the 3d print. The top cover can be attached to the PCB with 4 Philipps head screws. (4 threaded inserts would have been added to the 3d printed part beforehand).
+It comes with 32 0603 LEDs arranged in 3 digits, 5-LED light bar and 4 custom indicators. For the top cover, it's mainly a 3d printed part, with tracing paper acting as a diffuser. I'm using double sided adhesive sheets to place the diffusing film on top of the 3d print. The top cover can be attached to the PCB with 4 Phillips head screws. (4 threaded inserts would have been added to the 3d printed part beforehand).
 
 demo here: https://youtu.be/OrP4pxH6j-U
 
